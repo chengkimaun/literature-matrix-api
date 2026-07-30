@@ -2,6 +2,6 @@
   "name": "literature-matrix-api",
   "version": "1.0.0",
   "dependencies": {
-    "@vercel/kv": "latest"
+    "@upstash/redis": "latest"
   }
 }
